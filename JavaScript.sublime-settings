@@ -1,0 +1,5 @@
+{
+    // "rulers": [ 79, 80 ], // Python
+    "word_wrap": false, // Python
+    "tab_size": 4, // Python
+}

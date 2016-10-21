@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"Anaconda",
+		"Babel",
+		"BracketHighlighter",
+		"Djaneiro",
+		"Dracula Color Scheme",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML Snippets",
+		"Markdown Preview",
+		"Material Theme",
+		"MoveTab",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces",
+		"WakaTime"
+	]
+}

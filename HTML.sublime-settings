@@ -1,0 +1,6 @@
+{
+    "rulers": [80], // HTML
+    "word_wrap": true, // HTML
+    // "wrap_width": 80, // HTML
+    "tab_size": 2, // HTML
+}

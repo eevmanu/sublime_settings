@@ -1,0 +1,2 @@
+- Docs: https://packagecontrol.io/docs/syncing
+- Where to put: $HOME/.config/sublime-text-3/Packages/User
