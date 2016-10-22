@@ -86,4 +86,8 @@
     [
         "E501",
     ],
+
+    // Avoid checking updates, only works if you license
+    "update_check": false,
+
 }
