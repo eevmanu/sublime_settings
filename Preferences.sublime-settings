@@ -39,7 +39,7 @@
         "draw_active",
         "draw_normal"
     ],
-    // "draw_white_space": "all",
+    "draw_white_space": "all",
     "fold_buttons": true, // arrow in the left that fold and unfold code
     "overlay_scroll_bars": "enabled",
     // "soda_classic_tabs": true,
