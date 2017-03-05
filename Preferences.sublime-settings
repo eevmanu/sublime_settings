@@ -90,4 +90,8 @@
     // Avoid checking updates, only works if you license
     "update_check": false,
 
+    "ignored_packages": [
+        // "Python",
+    ]
+
 }
