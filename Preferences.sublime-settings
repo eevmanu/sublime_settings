@@ -53,8 +53,8 @@
 
     // Word wrapping
     // "rulers": [ 79, 80 ],
-    // "word_wrap": true,
-    // "wrap_width": 80,
+    "word_wrap": true,
+    "wrap_width": 90,
 
     // Whitespace - no tabs, trimming, end files with \n
     // "tab_size": 4,
