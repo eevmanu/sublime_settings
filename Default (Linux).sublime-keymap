@@ -53,8 +53,11 @@
     { "keys": ["´","Y"], "command": "insert", "args": {"characters": "Ý"}},
     { "keys": ["¨","Y"], "command": "insert", "args": {"characters": "Ÿ"}},
 
-    { "keys": ["ctrl+alt+shift+w"] , "command": "toggle_setting", "args": {"setting": "word_wrap"}},
-    { "keys": [ "ctrl+alt+m" ], "command": "un_pretty_json"},
-    { "keys": ["f5"], "command": "revert"},
+    { "keys": ["ctrl + alt + shift + w"] , "command": "toggle_setting"  , "args": {"setting": "word_wrap"}} ,
+    { "keys": ["ctrl + alt + m"]         , "command": "un_pretty_json"} ,
+    { "keys": ["f5"]                     , "command": "revert"}         ,
+
+    // Multiple cursors same column -> Alt + Shift + Up/Down
+    // https://stackoverflow.com/questions/25085479/column-vertical-selection-with-keyboard-in-sublimetext-3#comment67833217_33864826
 
 ]
