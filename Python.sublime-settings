@@ -1,21 +1,22 @@
 {
-	"extensions":
-	[
-		"py3",
-		"pyw",
-		"pt",
-		"py"
-	],
-	"pep8_ignore":
-	[
-		"E501"
-	],
-	"rulers":
-	[
-		79,
-		80
-	],
-	"tab_size": 4,
-	"word_wrap": true,
-	"wrap_width": 80
+    "extensions":
+    [
+        "py3",
+        "pyw",
+        "pt",
+        "py"
+    ],
+    "pep8_ignore":
+    [
+        "E501",
+        "E712"
+    ],
+    "rulers":
+    [
+        72,
+        79,
+    ],
+    "tab_size": 4,
+    "word_wrap": true,
+    "wrap_width": 80
 }
