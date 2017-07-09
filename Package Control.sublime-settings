@@ -1,30 +1,50 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"AlignTab",
-		"Anaconda",
-		"Babel",
-		"BracketHighlighter",
-		"Djaneiro",
-		"Dracula Color Scheme",
-		"FileDiffs",
-		"Git",
-		"GitGutter",
-		"HTML Snippets",
-		"Markdown Preview",
-		"Material Theme",
-		"MoveTab",
-		"Package Control",
-		"PlainTasks",
-		"Pretty JSON",
-		"SideBarEnhancements",
-		"Theme - Soda",
-		"Tomorrow Color Schemes",
-		"TrailingSpaces",
-		"WakaTime"
-	]
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        // Core
+        "Package Control",
+
+        // UI
+        "Material Theme",
+        "Theme - Soda",
+        "Tomorrow Color Schemes",
+
+        // UI Enhancements
+        "SideBarEnhancements",
+        "BracketHighlighter",
+        "MoveTab",
+        "A File Icon",
+
+        // Addons
+        "TrailingSpaces",
+        "AlignTab",
+        "FileDiffs",
+        "PlainTasks",
+        "Terminal",
+        "WakaTime",
+
+        // Git
+        "Git",
+        "GitGutter",
+
+        // JSON
+        "Pretty JSON",
+
+        // HTML
+        "HTML Snippets",
+
+        // Markdown
+        "Markdown Preview",
+
+        // Python
+        "Anaconda",
+        "Djaneiro",
+        "PyYapf Python Formatter",
+        "requirementstxt",
+        "Console Wrap",
+    ]
 }
